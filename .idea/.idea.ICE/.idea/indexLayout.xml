@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.postprocessing@2.1.4</Path>
+      <Path>Library/PackageCache/com.unity.probuilder@4.0.4</Path>
+      <Path>Library/PackageCache/com.unity.progrids@3.0.3-preview.4</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.idea</Path>
+      <Path>.vs</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Temp</Path>
+      <Path>build</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>
